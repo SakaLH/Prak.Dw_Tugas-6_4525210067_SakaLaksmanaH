@@ -25,7 +25,7 @@ Dokumentasi standarisasi visual dan komponen UI yang digunakan sebagai acuan pen
   * *Cards*: Kartu Program Studi (Web Development, Software Development, Data & Technology) dan Kartu Fasilitas.
   * *Form Controls*: Standarisasi input teks, dropdown, dan checkbox.
 
-![Mini Design Guide](Mini-design-guide_4525210067_SakaLaksmanaH.jpg)
+![Mini Design Guide](Mini-design-guide_4525210067_SakaLaksmanaH.png)
 
 ---
 
@@ -39,7 +39,7 @@ Wireframe desktop berfokus pada penyusunan tata letak (layout) dan hierarki info
 * **Section Fasilitas**: Grid 3 kolom untuk fasilitas kampus (Ruang Kelas, Laboratorium, Kelas Utama).
 * **Footer / CTA**: Banner penutup "Siap Untuk Masa Depan Anda?" dengan tombol *Hubungi Kami*.
 
-![Wireframe Desktop](WF_4525210067_SakaLaksmanaH.jpg)
+![Wireframe Desktop](WF_4525210067_SakaLaksmanaH.png)
 
 ---
 
@@ -52,7 +52,7 @@ Mockup desktop merupakan implementasi visual penuh dengan menerapkan warna brand
 * **Bagian Fasilitas**: Kartu dengan foto dokumentasi fasilitas modern (Ruang Kelas, Laboratorium Komputer, dan Kelas Utama/Auditorium).
 * **Section Penutup**: Latar hijau tua dengan kurva dinamis yang memperkuat identitas visual World University.
 
-![High-Fidelity Mockup Desktop](high-Fidelity_Mockup_4525210067_SakaLaksmanaH.jpg)
+![High-Fidelity Mockup Desktop](high-Fidelity_Mockup_4525210067_SakaLaksmanaH.png)
 
 ---
 
@@ -65,7 +65,7 @@ Rancangan tata letak untuk perangkat bergerak (*mobile viewport*) yang mengadapt
 * Kartu program dan fasilitas diubah dari tata letak multi-kolom menjadi tumpukan vertikal (*single column*).
 * Tombol CTA diperlebar (*full-width*) agar mudah dijangkau oleh ibu jari pengguna (*thumb-friendly*).
 
-![Wireframe Mobile](WF_Mobile_4525210067_SakaLaksmanaH.jpg)
+![Wireframe Mobile](WF_Mobile_4525210067_SakaLaksmanaH.png)
 
 ---
 
@@ -77,7 +77,7 @@ Penerapan visual akhir pada tampilan mobile dengan mempertahankan konsistensi ga
 * Alur pembacaan konten mengalir secara linier dari atas ke bawah tanpa memotong hierarki informasi.
 * Mempertahankan kontras warna yang optimal untuk keterbacaan di berbagai kondisi pencahayaan layar ponsel.
 
-![High-Fidelity Mockup Mobile](high-Fidelity_Mockup_Mobile_4525210067_SakaLaksmanaH.jpg)
+![High-Fidelity Mockup Mobile](high-Fidelity_Mockup_Mobile_4525210067_SakaLaksmanaH.png)
 
 ---
 
